@@ -1,0 +1,14 @@
+Tidak ada definisi pasti apa itu stop word. 
+Yang pasti stop word adalah kata-kata yang diabaikan dalam pemrosesan data di NLP (Natural Language Processing).
+Karakteristik dari stop word yaitu frekuensi kemunculannya tinggi; 
+biasanya berupa kata ganti orang atau kata penghubung. 
+Tidak ada list pasti stop word, ini adalah beberapa list yang ada.
+Ada banyak algoritma yang digunakan untuk melakukan proses stemming, 
+khususnya stemming bahasa indonesia. 
+Algoritma-algoritma tersebut antara lain : Algoritma Nazief dan Andriani, algoritma Arifin dan Setiono, 
+algoritma Idris dan Mustofa, algoritma Vega, algoritma Ahmad, Yussof dan Sembok, Porter dsb. 
+Algoritma yang diimplementasikan dalam tutorial ini menggunakan algoritma Porter.  
+Algoritma Porter ditemukan oleh Martin Porter 1980. 
+Algoritma tersebut digunakan untuk stemming bahasa inggris, 
+kemudian karena proses stemming bahasa inggris berbeda dengan bahasa indonesia maka,
+dikembangkan algoritma porter khusus untuk bahasa indonesia.
